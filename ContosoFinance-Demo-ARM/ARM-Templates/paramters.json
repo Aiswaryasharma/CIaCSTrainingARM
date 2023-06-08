@@ -6,16 +6,16 @@
             "value": "WestEurope"
         },
         "hostingplanname": {
-            "value": "SmithaCIaCSTraining-Plan"
+            "value": "AiswaryasharmaCIaCSTraining-Plan"
         },
         "webappname": {
-            "value": "SmithaCIaCSTraining-Site"
+            "value": "AiswaryasharmaCIaCSTraining-Site"
         },
         "apiname": {
-            "value": "SmithaCIaCSTraining-Api"
+            "value": "AiswaryasharmaCIaCSTraining-Api"
         },
         "sqlservername": {
-            "value": "SmithaCIaCSTraining-Sql"
+            "value": "AiswaryasharmaCIaCSTraining-Sql"
         },
         "databasename": {
             "value": "smithaciacstrainingdb"
